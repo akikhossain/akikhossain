@@ -42,4 +42,4 @@
   <img src="https://streak-stats.demolab.com?user=akikhossain&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-[![Akik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akikhossain&theme=react-dark)](https://github.com/akikhossain/github-readme-activity-graph)
+[![Akik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akikhossain&theme=tokyo-night)](https://github.com/akikhossain/github-readme-activity-graph)
