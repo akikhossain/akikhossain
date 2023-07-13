@@ -13,9 +13,9 @@
 
  
 
-- 💬 Ask me about **HTML, CSS, TAILWIND, BOOTSTRAP**
+- 💬 Ask me about **WEB DEVELOPMENT**
 
-- 📫 How to reach me **akikhs00@gmail.com**
+- 📫 How to reach me **mr.akikhossain@gmail.com**
 
  
 
