@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akikhossain&label=Profile%20views&color=0e75b6&style=flat" alt="akikhossain" /> </p>
 
-<p align="left"> <a href="https://twitter.com/akhs87" target="blank"><img src="https://img.shields.io/twitter/follow/akhs87?logo=twitter&style=for-the-badge" alt="akhs87" /></a> </p>
+ 
 
 - 🔭 I’m currently working on **My own Company**
 
