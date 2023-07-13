@@ -1,7 +1,7 @@
 [![MasterHead ](https://media.licdn.com/dms/image/C4D12AQGp7-xvaiH1mA/article-cover_image-shrink_600_2000/0/1520122127770?e=2147483647&v=beta&t=SZesB47T-m-ShAUtRpgFI8fX2wQSo4meaxm-3bnoEQk)] 
 <h1 align="center">Hi 👋, I'm Akik Hossain</h1>
 <h3 align="center">A passionate beginner on a journey to become a full stack web developer. 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akikhossain&label=Profile%20views&color=0e75b6&style=flat" alt="akikhossain" /> </p>
 
@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akikhossain](https://github.com/akikhossain)
+ 
 
 - 💬 Ask me about **HTML, CSS, TAILWIND, BOOTSTRAP**
 
 - 📫 How to reach me **akikhs00@gmail.com**
 
-- 📄 Know about my experiences [https://akikhossain.github.io/webdeveloper-portfolio/](https://akikhossain.github.io/webdeveloper-portfolio/)
+ 
 
 - ⚡ Fun fact **I love to Travel and Photography**
 
