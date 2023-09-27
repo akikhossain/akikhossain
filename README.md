@@ -1,4 +1,4 @@
- [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://miro.medium.com/v2/resize:fit:4800/1*yZ41P3YdMYMiyFPAPrzyGw.gif))
+[![MasterHead ](https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)] 
 <h1 align="center">Hi 👋, I'm Akik Hossain</h1>
 <h3 align="center">A passionate beginner on a journey to become a full stack web developer. 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
