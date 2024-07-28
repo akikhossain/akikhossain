@@ -7,9 +7,9 @@
 
  
 
-- 🔭 I’m currently working on **My own Company**
+- 🔭 I am currently engaged in a professional role in a **Reputed Company**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Vue JS**
 
  
 
